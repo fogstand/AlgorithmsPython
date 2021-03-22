@@ -1,1 +1,1 @@
-# Project Assignment for Algorithms class
+# ProjectAssignments for Algorithms class
